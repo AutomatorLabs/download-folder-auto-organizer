@@ -69,7 +69,7 @@ Files are moved, not deleted.
   <img src="Screenshots/scanned%20folder%20preview.png" width="900">
 </p>
 
-<h3>Organized Folders</h3>
+<h3>Previewing message for creating the Organized Folders</h3>
 
 <p>
   <img src="Screenshots/move%20files%20to%20organized%20folders.png" width="900">
