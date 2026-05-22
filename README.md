@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="Screenshots/large%20demo.gif" width="1000">
+</p>
+
+<p align="center">
   A clean offline macOS utility for organizing messy Downloads folders safely.
 </p>
 
