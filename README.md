@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="Screenshots/large%20demo.gif" width="1000">
-</p>
-
-<p align="center">
   A clean offline macOS utility for organizing messy Downloads folders safely.
 </p>
 
@@ -20,6 +16,10 @@
   <a href="https://gallonlabs.gumroad.com/l/download-folder-auto-organizer"><strong>Buy on Gumroad</strong></a>
   ·
   <a href="https://automatorlabs.itch.io/download-folder-auto-organizer"><strong>Download on itch.io</strong></a>
+</p>
+
+<p align="center">
+  <img src="Screenshots/large%20demo.gif" width="1000">
 </p>
 
 ---
